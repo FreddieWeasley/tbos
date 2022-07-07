@@ -1,0 +1,4 @@
+#teddyfircua {width:378px;height:200px;background:#A65424;margin:0 auto;display:flex;justify-content:center;transition:0.5s;color:rgb(186, 186, 186, 0.0);}
+#teddyfircua:hover {width:378px;height:200px;background:#0D0D0D;margin:0 auto;display:flex;justify-content:center;transition:0.5s;color:rgb(186, 186, 186, 1.0);}
+#teddyfirimg {width:300px;height:194px;margin-top:3px;margin-right:3px;}
+#teddyfirtex {width:55px;height:162px;font-family:var(--fuente-texto);font-size:10px;font-weight:700;text-transform:uppercase;font-style:italic;line-height:18px;padding:10px;padding-top:28px;text-align:center;}
