@@ -1,0 +1,6 @@
+#fgenfircaj {width:294px;height:194px;border:3px solid;margin:0 auto;overflow:hidden;}
+#fgenfircajtex {width:284px;height:30px;margin-left:5px;margin-top:194px;transition:0.5s;}
+#fgenfircajtex:hover {width:284px;height:30px;margin-left:5px;margin-top:159px;transition:0.5s;}
+#fgenfircajico {width:50px;height:50px;margin-top:-80px;text-align:center;}
+#fgenfirico {font-size:30px;line-height:50px;}
+#fgenfirtex {font-family:var(--fuente-texto);font-size:10px;font-weight:700;text-transform:uppercase;font-style:italic;line-height:30px;text-align:center;padding-left:5px;padding-right:5px;}
